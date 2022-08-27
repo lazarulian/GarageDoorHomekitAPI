@@ -2,8 +2,7 @@
 //  File.swift
 //  
 //
-//  Created by Paulo F. Andrade on 01/09/2019.
-//
+
 
 import Foundation
 import Utility
