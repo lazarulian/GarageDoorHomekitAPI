@@ -1,4 +1,4 @@
-# RPi-Garage
+# Home-Kit Garage Door
 
 A simple command line tool to control a garage door using a Raspberry Pi. 
 
